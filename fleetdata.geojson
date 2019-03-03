@@ -42,7 +42,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9291078,
+    "MMSI":477560400,
+    "Callsign":"VRAF7",
+    "DeadWeight":56050,
+    "GrossTonnage":31260,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2004,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -86,7 +96,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9304227,
+    "MMSI":477627400,
+    "Callsign":"VRFS7",
+    "DeadWeight":76773,
+    "GrossTonnage":40040,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2005,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -130,7 +150,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9324667,
+    "MMSI":477627100,
+    "Callsign":"VRFS6",
+    "DeadWeight":52385,
+    "GrossTonnage":30046,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2006,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -174,7 +204,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9324655,
+    "MMSI":477617400,
+    "Callsign":"VRFS5",
+    "DeadWeight":52424,
+    "GrossTonnage":30046,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2006,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -218,7 +258,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9330769,
+    "MMSI":477109800,
+    "Callsign":"VRBV5",
+    "DeadWeight":12829,
+    "GrossTonnage":9590,
+    "ShipType":"Container Ship",
+    "Class":"Small Feeder",
+    "YearOfBuild":2006,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -262,7 +312,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9458767,
+    "MMSI":477682100,
+    "Callsign":"VRFV3",
+    "DeadWeight":93412,
+    "GrossTonnage":51130,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -306,7 +366,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9507532,
+    "MMSI":477127700,
+    "Callsign":"VRNX6",
+    "DeadWeight":178978,
+    "GrossTonnage":93186,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -350,7 +420,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9526679,
+    "MMSI":477726100,
+    "Callsign":"VRFZ3",
+    "DeadWeight":175868,
+    "GrossTonnage":91751,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -394,7 +474,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9546899,
+    "MMSI":477691700,
+    "Callsign":"VRFM3",
+    "DeadWeight":176000,
+    "GrossTonnage":92050,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -438,7 +528,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9445320,
+    "MMSI":477779800,
+    "Callsign":"VRFY8",
+    "DeadWeight":180335,
+    "GrossTonnage":94710,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -482,7 +582,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9487043,
+    "MMSI":477851700,
+    "Callsign":"VRFY5",
+    "DeadWeight":31807,
+    "GrossTonnage":19994,
+    "ShipType":"General Cargo Ship",
+    "Class":"n/a",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -526,7 +636,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9458755,
+    "MMSI":477621100,
+    "Callsign":"VRFN4",
+    "DeadWeight":93297,
+    "GrossTonnage":51130,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2009,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -570,7 +690,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9458779,
+    "MMSI":477742900,
+    "Callsign":"VRGC5",
+    "DeadWeight":93252,
+    "GrossTonnage":51130,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -614,7 +744,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9445332,
+    "MMSI":477961100,
+    "Callsign":"VRFZ2",
+    "DeadWeight":180423,
+    "GrossTonnage":94710,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -658,7 +798,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9452464,
+    "MMSI":477387100,
+    "Callsign":"VRFY7",
+    "DeadWeight":180247,
+    "GrossTonnage":94710,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2011,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -702,7 +852,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9487055,
+    "MMSI":477982100,
+    "Callsign":"VRFY6",
+    "DeadWeight":31744,
+    "GrossTonnage":19994,
+    "ShipType":"General Cargo Ship",
+    "Class":"n/a",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -746,7 +906,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9452476,
+    "MMSI":477550900,
+    "Callsign":"VRFZ4",
+    "DeadWeight":180388,
+    "GrossTonnage":94710,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2011,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -790,7 +960,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9458781,
+    "MMSI":477550100,
+    "Callsign":"VRHZ2",
+    "DeadWeight":93204,
+    "GrossTonnage":51130,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2011,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -834,7 +1014,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9487067,
+    "MMSI":477051400,
+    "Callsign":"VRFZ6",
+    "DeadWeight":31785,
+    "GrossTonnage":19994,
+    "ShipType":"General Cargo Ship",
+    "Class":"n/a",
+    "YearOfBuild":2011,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -878,7 +1068,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9629627,
+    "MMSI":477091300,
+    "Callsign":"VRIU3",
+    "DeadWeight":75474,
+    "GrossTonnage":40913,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2011,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -922,7 +1122,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9595711,
+    "MMSI":477167100,
+    "Callsign":"VRIN5",
+    "DeadWeight":75524,
+    "GrossTonnage":40913,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2012,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -966,7 +1176,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9595709,
+    "MMSI":477950200,
+    "Callsign":"VRIN6",
+    "DeadWeight":75570,
+    "GrossTonnage":40913,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2011,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1010,7 +1230,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9487031,
+    "MMSI":477738100,
+    "Callsign":"VRFZ5",
+    "DeadWeight":31776,
+    "GrossTonnage":19994,
+    "ShipType":"General Cargo Ship",
+    "Class":"n/a",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1054,7 +1284,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9526667,
+    "MMSI":477711900,
+    "Callsign":"VRFY9",
+    "DeadWeight":175800,
+    "GrossTonnage":91751,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1098,7 +1338,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9629639,
+    "MMSI":477739700,
+    "Callsign":"VRIU4",
+    "DeadWeight":75480,
+    "GrossTonnage":40913,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2012,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1142,7 +1392,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9733600,
+    "MMSI":477855500,
+    "Callsign":"VRNO2",
+    "DeadWeight":77835,
+    "GrossTonnage":41872,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2015,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1186,7 +1446,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9738492,
+    "MMSI":477301500,
+    "Callsign":"VRNO4",
+    "DeadWeight":63464,
+    "GrossTonnage":36429,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2015,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1230,7 +1500,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9733612,
+    "MMSI":477524800,
+    "Callsign":"VRNO3",
+    "DeadWeight":77853,
+    "GrossTonnage":41872,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2015,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1274,7 +1554,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9738519,
+    "MMSI":477939700,
+    "Callsign":"VRNO6",
+    "DeadWeight":63464,
+    "GrossTonnage":36429,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2016,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1318,7 +1608,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9728679,
+    "MMSI":477730900,
+    "Callsign":"VRNP2",
+    "DeadWeight":63392,
+    "GrossTonnage":36353,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2016,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1362,7 +1662,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":null,
+    "MMSI":null,
+    "Callsign":"",
+    "DeadWeight":null,
+    "GrossTonnage":null,
+    "ShipType":"",
+    "Class":"",
+    "YearOfBuild":null,
+    "Flag":""
     }
   },
   {
@@ -1406,7 +1716,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9507908,
+    "MMSI":477127500,
+    "Callsign":"VRNX5",
+    "DeadWeight":178979,
+    "GrossTonnage":93186,
+    "ShipType":"Bulk Carrier",
+    "Class":"Capesize",
+    "YearOfBuild":2010,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1450,7 +1770,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9728655,
+    "MMSI":477524200,
+    "Callsign":"VRNO8",
+    "DeadWeight":63377,
+    "GrossTonnage":36353,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2015,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1494,7 +1824,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9728667,
+    "MMSI":477684400,
+    "Callsign":"VRNO9",
+    "DeadWeight":63411,
+    "GrossTonnage":36353,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2015,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1538,7 +1878,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9738507,
+    "MMSI":477948900,
+    "Callsign":"VRNO5",
+    "DeadWeight":63497,
+    "GrossTonnage":36429,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2015,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1582,7 +1932,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9728681,
+    "MMSI":477307800,
+    "Callsign":"VRNP3",
+    "DeadWeight":63376,
+    "GrossTonnage":36353,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2016,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1626,7 +1986,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9738521,
+    "MMSI":477510700,
+    "Callsign":"VRNO7",
+    "DeadWeight":63498,
+    "GrossTonnage":36429,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2016,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1670,7 +2040,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9792620,
+    "MMSI":477010600,
+    "Callsign":"VRQA5",
+    "DeadWeight":24753,
+    "GrossTonnage":19070,
+    "ShipType":"Container Ship",
+    "Class":"Feeder",
+    "YearOfBuild":2017,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1714,7 +2094,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9792644,
+    "MMSI":477112600,
+    "Callsign":"VRQA7",
+    "DeadWeight":24690,
+    "GrossTonnage":19070,
+    "ShipType":"Container Ship",
+    "Class":"Feeder",
+    "YearOfBuild":2017,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1758,7 +2148,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9722065,
+    "MMSI":477147800,
+    "Callsign":"VRRI2",
+    "DeadWeight":63376,
+    "GrossTonnage":36357,
+    "ShipType":"Bulk Carrier",
+    "Class":"Panamax",
+    "YearOfBuild":2018,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1802,7 +2202,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9792656,
+    "MMSI":477139800,
+    "Callsign":"VRQA8",
+    "DeadWeight":24693,
+    "GrossTonnage":19070,
+    "ShipType":"Container Ship",
+    "Class":"Feeder",
+    "YearOfBuild":2017,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1846,7 +2256,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9800623,
+    "MMSI":477151900,
+    "Callsign":"VRRI6",
+    "DeadWeight":38797,
+    "GrossTonnage":25561,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2017,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1890,7 +2310,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9792876,
+    "MMSI":477139600,
+    "Callsign":"VRQA9",
+    "DeadWeight":38645,
+    "GrossTonnage":25711,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2017,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1934,7 +2364,17 @@
     "OPO -24hrs":"-",
     "OPO -12hrs":"-",
     "OPO Latest":"-",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9792888,
+    "MMSI":477157500,
+    "Callsign":"VRQB2",
+    "DeadWeight":38648,
+    "GrossTonnage":25711,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2018,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -1978,7 +2418,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9792890,
+    "MMSI":477168200,
+    "Callsign":"VRQB3",
+    "DeadWeight":38671,
+    "GrossTonnage":25711,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2018,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -2022,7 +2472,17 @@
     "OPO -24hrs":"!",
     "OPO -12hrs":"!",
     "OPO Latest":"!",
-    "OPO Schedule":"!"
+    "OPO Schedule":"!",
+    "FIELD38":"",
+    "IMO":9792905,
+    "MMSI":477172900,
+    "Callsign":"VRQB4",
+    "DeadWeight":38500,
+    "GrossTonnage":25500,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2018,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -2066,7 +2526,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9792917,
+    "MMSI":477183500,
+    "Callsign":"VRQB5",
+    "DeadWeight":38500,
+    "GrossTonnage":25500,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2018,
+    "Flag":"Hong Kong"
     }
   },
   {
@@ -2110,7 +2580,17 @@
     "OPO -24hrs":"2019/2/28 14:00",
     "OPO -12hrs":"2019/3/1 2:00",
     "OPO Latest":"2019/3/1 14:00",
-    "OPO Schedule":""
+    "OPO Schedule":"",
+    "FIELD38":"",
+    "IMO":9792929,
+    "MMSI":477209300,
+    "Callsign":"VRQB6",
+    "DeadWeight":38500,
+    "GrossTonnage":25500,
+    "ShipType":"Bulk Carrier",
+    "Class":"Handymax",
+    "YearOfBuild":2018,
+    "Flag":"Hong Kong"
     }
   }
 ]
